@@ -1,3 +1,4 @@
+<div style="direction:rtl">
 # ترجمه ی زبان فارسی برای لاراول 6
 ## برای نصب مراحل زیر را انجام دهید
 * با استفاده از کامپوزر میتوانید این پکیج را نصب کنید :
@@ -14,3 +15,4 @@
 <hr><a href="http://avasam.ir"  target="_blank">آموزش برنامه نویسی آواسام</a>
 <hr><a href="https://avasam.ir/product/23" target="_blank">آموزش لاراول</a>
 <br><a href="https://avasam.ir/product/23" target="_blank"><img src="https://avasam.ir/assets/img/avatars/5ccc6cd383f0b.png"></a>
+</div>
