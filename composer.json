@@ -1,0 +1,18 @@
+{
+    "name": "abasnikzad/laravel-persian",
+    "description": "persian Languages translation for Laravel 6",
+    "keywords": [
+        "laravel",
+        "languages",
+        "lpm",
+        "lang",
+        "persian"
+    ],
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Abas Nikzad",
+            "email": "nikzad@avasam.ir"
+        }
+    ]
+}
